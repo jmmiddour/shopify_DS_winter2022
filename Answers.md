@@ -26,9 +26,9 @@ It really depends on the time constraint you are under at the time of analysis. 
 The mean (*Average Order Value* (AOV)) = `$301.06`
 
 ### Files associated with this set of questions are all in this repository and include the following:
-- `Joanne_Middour_Winter2022_Intern_Challenge.ipynb`
-- `2019_Winter_Data_Science_Intern_Challenge_Data_Set_Sheet1.csv`
-- `sneakers.py`. 
+- [Joanne_Middour_Winter2022_Intern_Challenge.ipynb](https://github.com/jmmiddour/shopify_winter2022/blob/main/Joanne_Middour_Winter2022_Intern_Challenge.ipynb)
+- [2019_Winter_Data_Science_Intern_Challenge_Data_Set_Sheet1.csv](https://github.com/jmmiddour/shopify_winter2022/blob/main/2019_Winter_Data_Science_Intern_Challenge_Data_Set_Sheet1.csv)
+- [sneakers.py](https://github.com/jmmiddour/shopify_winter2022/blob/main/sneakers.py)
 
 
 ## Question 2: 
@@ -168,5 +168,5 @@ Please use queries to answer the following questions. Paste your queries along w
 
 
 ### Files associated with this set of questions are all in this repository and include the following:
-- `orders_db.sqlite3`
-- `orders_queries.py`
+- [orders_db.sqlite3](https://github.com/jmmiddour/shopify_winter2022/blob/main/orders_db.sqlite3)
+- [orders_queries.py](https://github.com/jmmiddour/shopify_winter2022/blob/main/orders_queries.py)
